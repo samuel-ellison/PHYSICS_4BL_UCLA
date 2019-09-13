@@ -14,6 +14,6 @@ These Lab Reports are NOT to be reproduced in any way shape or form. The purpose
 | Experiment 6  | 97/100  |
 | Experiment 7  | 99/100  |
 
-UCLA Lab Manual (Found on UCLA Physics and Astronomy Page)
+UCLA Physics Lab 4BL Manual (Found on UCLA Physics and Astronomy Page)
 
 http://demoweb.physics.ucla.edu/sites/default/files/Manual4BL_3.pdf
